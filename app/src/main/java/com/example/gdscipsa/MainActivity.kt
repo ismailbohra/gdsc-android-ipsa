@@ -32,6 +32,7 @@ import androidx.compose.runtime.remember
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.modifier.modifierLocalConsumer
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.colorResource
 import androidx.compose.ui.res.painterResource
@@ -104,8 +105,9 @@ fun Navigation() {
 
         topBar = {
 
-            TopAppBar(backgroundColor = Color.White, modifier = Modifier.height(80.dp).fillMaxWidth(), title = {
-                Column() {
+            TopAppBar(backgroundColor = Color.White, modifier = Modifier
+                .height(80.dp), title = {
+                Column(horizontalAlignment = Alignment.Start) {
                     Row() {
                         Text(text = "Developer Student Club", fontSize = 25.sp, color = Color.Black)
                         Row(
@@ -125,7 +127,6 @@ fun Navigation() {
                     }
                     GoogleLines()
                 }
-
 
             })
         },
@@ -184,15 +185,7 @@ fun Navigation() {
 
 @Composable
 fun home() {
-    Column(
-        modifier = Modifier.fillMaxSize(),
-        horizontalAlignment = Alignment.CenterHorizontally,
-        verticalArrangement = Arrangement.Center
-    ) {
-        Text(text = "home")
-    }
-
-
+   homeFragmentUI()
 }
 
 
@@ -257,5 +250,5 @@ fun GoogleLines(){
 @Preview
 @Composable
 fun DefaultPreview() {
-
+    Navigation()
 }

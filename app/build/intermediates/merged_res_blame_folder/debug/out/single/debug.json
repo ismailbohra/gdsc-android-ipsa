@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-merged_res-61:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-main-63:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-merged_res-61:\\raw_teams.json.flat",
+        "source": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-main-63:\\raw\\teams.json"
+    },
+    {
+        "merged": "com.example.gdscipsa.app-merged_res-61:/drawable_ic_app_dev.png.flat",
+        "source": "com.example.gdscipsa.app-main-63:/drawable/ic_app_dev.png"
+    },
+    {
+        "merged": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-merged_res-61:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-main-63:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-merged_res-61:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-main-63:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-merged_res-61:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-main-63:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-merged_res-61:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-main-63:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-merged_res-61:\\drawable_team.xml.flat",
+        "source": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-main-63:\\drawable\\team.xml"
+    },
+    {
+        "merged": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-merged_res-61:\\drawable_ic_youtube2.png.flat",
+        "source": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-main-63:\\drawable\\ic_youtube2.png"
+    },
+    {
+        "merged": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-merged_res-61:\\drawable_android.png.flat",
+        "source": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-main-63:\\drawable\\android.png"
+    },
+    {
+        "merged": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-merged_res-61:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-main-63:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.gdscipsa.app-merged_res-61:/drawable_ic_hashnode.png.flat",
+        "source": "com.example.gdscipsa.app-main-63:/drawable/ic_hashnode.png"
+    },
+    {
+        "merged": "com.example.gdscipsa.app-merged_res-61:/drawable_ic_cloud_computing.png.flat",
+        "source": "com.example.gdscipsa.app-main-63:/drawable/ic_cloud_computing.png"
+    },
+    {
+        "merged": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-merged_res-61:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-main-63:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-merged_res-61:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-main-63:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-merged_res-61:\\drawable_ic_linkedin.png.flat",
+        "source": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-main-63:\\drawable\\ic_linkedin.png"
+    },
+    {
+        "merged": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-merged_res-61:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-main-63:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-merged_res-61:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-main-63:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-merged_res-61:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-main-63:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-merged_res-61:\\raw_google_loading.json.flat",
+        "source": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-main-63:\\raw\\google_loading.json"
+    },
+    {
+        "merged": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-merged_res-61:\\drawable_ic_instagram2.png.flat",
+        "source": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-main-63:\\drawable\\ic_instagram2.png"
+    },
+    {
+        "merged": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-merged_res-61:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-main-63:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-merged_res-61:\\raw_searching_lottie.json.flat",
+        "source": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-main-63:\\raw\\searching_lottie.json"
+    },
+    {
+        "merged": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-merged_res-61:\\drawable_aboutus.xml.flat",
+        "source": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-main-63:\\drawable\\aboutus.xml"
+    },
+    {
+        "merged": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-merged_res-61:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-main-63:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.gdscipsa.app-merged_res-61:/drawable_ic_web_dev.png.flat",
+        "source": "com.example.gdscipsa.app-main-63:/drawable/ic_web_dev.png"
+    },
+    {
+        "merged": "com.example.gdscipsa.app-merged_res-61:/drawable_ic_much_more.png.flat",
+        "source": "com.example.gdscipsa.app-main-63:/drawable/ic_much_more.png"
+    },
+    {
+        "merged": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-merged_res-61:\\drawable_homeicon_largesize.xml.flat",
+        "source": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-main-63:\\drawable\\homeicon_largesize.xml"
+    },
+    {
+        "merged": "com.example.gdscipsa.app-merged_res-61:/drawable_ic_ar_vr.png.flat",
+        "source": "com.example.gdscipsa.app-main-63:/drawable/ic_ar_vr.png"
+    },
+    {
+        "merged": "com.example.gdscipsa.app-merged_res-61:/drawable_ic_asj.png.flat",
+        "source": "com.example.gdscipsa.app-main-63:/drawable/ic_asj.png"
+    },
+    {
+        "merged": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-merged_res-61:\\drawable_ic_flutter.png.flat",
+        "source": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-main-63:\\drawable\\ic_flutter.png"
+    },
+    {
+        "merged": "com.example.gdscipsa.app-merged_res-61:/drawable_ic_google_cloud.png.flat",
+        "source": "com.example.gdscipsa.app-main-63:/drawable/ic_google_cloud.png"
+    },
+    {
+        "merged": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-merged_res-61:\\drawable_homeicon.xml.flat",
+        "source": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-main-63:\\drawable\\homeicon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-merged_res-61:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-main-63:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-merged_res-61:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-main-63:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-merged_res-61:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ismail\\.gradle\\daemon\\7.5\\com.example.gdscipsa.app-main-63:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    }
+]

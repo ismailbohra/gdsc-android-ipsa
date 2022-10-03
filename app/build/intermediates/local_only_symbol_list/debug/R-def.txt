@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable aboutus
+drawable android
+drawable homeicon
+drawable homeicon_largesize
+drawable ic_app_dev
+drawable ic_ar_vr
+drawable ic_asj
+drawable ic_cloud_computing
+drawable ic_flutter
+drawable ic_google_cloud
+drawable ic_hashnode
+drawable ic_instagram2
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_linkedin
+drawable ic_much_more
+drawable ic_web_dev
+drawable ic_youtube2
+drawable team
+mipmap ic_launcher
+mipmap ic_launcher_round
+raw google_loading
+raw searching_lottie
+raw teams
+string app_name
+style Theme.GDSCIPSA
+xml backup_rules
+xml data_extraction_rules

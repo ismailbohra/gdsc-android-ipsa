@@ -97,7 +97,6 @@ fun Navigation() {
                     Row(modifier = Modifier.padding(vertical = 3.dp)) {
                         Text(text = "IPS Academy Indore", fontSize = 15.sp, color = Color.Black)
                     }
-                    GoogleLine()
                 }
 
 
@@ -131,7 +130,7 @@ fun Navigation() {
                             if (currentRoute != it.rout) {
 
                                 navController.graph?.startDestinationRoute?.let {
-                                    navController.popBackStack(it, true)
+                                    navController.popBackStack(it, false)
                                 }
 
                                 navController.navigate(it.rout) {

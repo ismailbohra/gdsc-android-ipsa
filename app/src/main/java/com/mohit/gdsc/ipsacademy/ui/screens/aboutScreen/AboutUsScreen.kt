@@ -16,6 +16,7 @@ import com.mohit.gdsc.ipsacademy.ui.screens.aboutScreen.*
 @Composable
 fun ContentOfAboutUs() {
     Column(modifier = Modifier.verticalScroll(rememberScrollState())) {
+        GoogleLine()
         GoogleAnimation()
         CardViewContentAboutUs()
         Row(modifier = Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.Center) {

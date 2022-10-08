@@ -2,6 +2,7 @@ package com.mohit.gdsc.ipsacademy.ui.screens
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
+import androidx.activity.compose.LocalOnBackPressedDispatcherOwner
 import androidx.activity.compose.setContent
 import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.Image
@@ -18,6 +19,7 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Button
 import androidx.compose.material.ButtonDefaults
+import androidx.compose.material.IconButton
 import androidx.compose.material.OutlinedTextField
 import androidx.compose.material.Scaffold
 import androidx.compose.material.Text
@@ -31,6 +33,7 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.graphics.ColorFilter
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.text.font.FontWeight
@@ -53,16 +56,18 @@ class CertificateVerificationActivity : ComponentActivity() {
 @Composable
 fun CertificateVerificationUI() {
 
+    val dispatcher = LocalOnBackPressedDispatcherOwner.current!!.onBackPressedDispatcher
+
     Scaffold(topBar = {
 
         TopAppBar(backgroundColor = Color.White, modifier = Modifier.height(80.dp), title = {
             Column() {
                 Row() {
-                    Text(text = "Developer Student Club", fontSize = 25.sp, color = Color.Black)
+                    Text(text = "Developer Student Club", fontSize = 22.sp, color = Color.Black)
                     Row(
                         modifier = Modifier
                             .fillMaxWidth()
-                            .padding(end = 10.dp, top = 5.dp),
+                            .padding(end = 10.dp, top = 7.dp),
                         horizontalArrangement = Arrangement.End
                     ) {
                         Image(
@@ -72,11 +77,24 @@ fun CertificateVerificationUI() {
                     }
                 }
                 Row() {
-                    Text(text = "IES-IPS Academy Indore", fontSize = 15.sp, color = Color.Black)
+                    Text(text = "IES-IPS Academy Indore", fontSize = 15.sp, color = Color(
+                        11,
+                        11,
+                        11,
+                        161
+                    )
+                    )
                 }
             }
 
 
+        },navigationIcon =
+        {
+            IconButton(onClick = {
+                dispatcher.onBackPressed()
+            }) {
+                Image(painter = painterResource(id = R.drawable.ic_back_button), contentDescription ="back", colorFilter = ColorFilter.tint(Color.Red) )
+            }
         })
     }, content = {
         ActivityContent(it)

@@ -31,7 +31,6 @@ import androidx.navigation.compose.currentBackStackEntryAsState
 import androidx.navigation.compose.rememberNavController
 import com.mohit.gdsc.ipsacademy.R
 import com.mohit.gdsc.ipsacademy.ui.screens.aboutScreen.ContentOfAboutUs
-import com.mohit.gdsc.ipsacademy.ui.screens.aboutScreen.GoogleLine
 import com.mohit.gdsc.ipsacademy.ui.screens.homeScreen.HomeFragmentUI
 
 @Composable
@@ -128,8 +127,8 @@ fun Navigation() {
                         onClick = {
                             if (currentRoute != it.rout) {
 
-                                navController.graph?.startDestinationRoute?.let {
-                                    navController.popBackStack(it, true)
+                                navController.graph.startDestinationRoute?.let {
+                                    navController.popBackStack(it, false)
                                 }
 
                                 navController.navigate(it.rout) {
